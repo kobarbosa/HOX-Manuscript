@@ -1,2 +1,2 @@
-# CROPSeq
-Code for analysis of CROP-Seq experiment in the Manuscript
+# HOX Project
+Epigenetic regulators of MEIS1 Manuscript
